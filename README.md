@@ -22,10 +22,10 @@ MyProject\dependencies> git clone https://github.com/Beyondo/null
 - `null.filterable`
 - `null.clipboard`
 - `null.window`
-- `null.graphics`
-- `null.vulkan`
 - `null.math`
 - `null.meta`
+- `null.vulkan` (requires linking to `vulkan-1` and defining the preprocessor `NULL_USE_VULKAN`)
+- `null.graphics` (requires linking to your chosen graphics APIs and defining preprocessors for each of them)
 
 # Notes:
 If you found this library useful, or at least a good helpful example of how next-gen libraries of C++23 modules should be like, then pleaes consider starring it!
