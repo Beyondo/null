@@ -26,6 +26,17 @@ MyProject\dependencies> git clone https://github.com/Beyondo/null
 - `null.vulkan` (requires linking to `vulkan-1` and defining the preprocessor `NULL_USE_VULKAN`)
 - `null.graphics` (requires linking to your chosen graphics APIs and defining preprocessors for each of them)
 
+# Quick example:
+```cpp
+import null.clipboard;
+using namespace null;
+int main()
+{
+	clipboard::set_text("Hello World!");
+	return 0;
+}
+```
+
 # Notes:
 - All library modules are prefixed by `null.[module_name]`.
 - All library modules are in the namespace `null::`.
