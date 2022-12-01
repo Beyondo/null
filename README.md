@@ -2,8 +2,8 @@
 A cross-platform C++20/C++23 module-only library with many useful features. Just drag and drop! It's that easy.
 
 # How to use
-1. Make sure you set your compiler's language standard to C++20/C++23 or higher.
-2. Clone the repository anywhere inside your project, for example, in a directory named `dependencies`.
+1. Make sure you set your compiler's language standard to **C++20/C++23** or higher.
+2. **Clone** the repository anywhere inside your project, for example, in a directory named `dependencies`.
 ```bash
 MyProject\dependencies> git clone https://github.com/Beyondo/null
 ```
@@ -13,9 +13,9 @@ MyProject\dependencies> git clone https://github.com/Beyondo/null
 - Make sure to click on "Show All Files" icon then click on refresh icon.
 - Right click on `dependencies` or `dependencies/null` directory and click "Include In Project".
 
-# How to use - Drag/Drop (IDE)
-- Download the library anywhere then just drag and drop it anywhere inside your project in the IDE.<br>
-**Note:** You might want to create a directory where you'll drop the library first.
+# How to use - Drag/Drop (VS)
+1. In **filter view** mode, create a filter named anything, let's say X.
+2. Download the library anywhere then just **drag and drop** it inside X.<br>
 
 # Available modules
 - `null.filterable`
