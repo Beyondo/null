@@ -13,7 +13,7 @@ MyProject\dependencies> git clone https://github.com/Beyondo/null
 - Make sure to click on "Show All Files" icon then click on refresh icon.
 - Right click on `dependencies` or `dependencies/null` directory and click "Include In Project".
 
-# How to use - Drag/Drop
+# How to use - Drag/Drop (IDE)
 - Download the library anywhere then just drag and drop it anywhere inside your project in the IDE.<br>
 **Note:** You might want to create a library where you'd drop it first.
 
