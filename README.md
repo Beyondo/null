@@ -15,7 +15,7 @@ MyProject\dependencies> git clone https://github.com/Beyondo/null
 
 # How to use - Drag/Drop (IDE)
 - Download the library anywhere then just drag and drop it anywhere inside your project in the IDE.<br>
-**Note:** You might want to create a directory where you'd drop it first.
+**Note:** You might want to create a directory where you'll drop the library first.
 
 # Available modules
 - `null.filterable`
