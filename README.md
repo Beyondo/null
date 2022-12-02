@@ -1,5 +1,5 @@
 # Null
-A cross-platform C++20/C++23 module-only library with many useful features. Just drag and drop! It's that easy.
+A cross-platform C++ module-only library with many useful features. Just drag and drop! It's that easy.
 
 # How to use
 1. Make sure you set your compiler's language standard to **C++20/C++23** or higher.
